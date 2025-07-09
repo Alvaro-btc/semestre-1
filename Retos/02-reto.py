@@ -5,9 +5,6 @@ inventario = {
 }
 print(inventario)
 
-
-
-
 tipos_frutas = ['Manzana', 'Platano', 'Cereza']
 print(tipos_frutas)
 
